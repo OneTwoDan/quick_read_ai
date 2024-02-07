@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
-        <img src={logo} alt="quick_read_logo" className="w-28 object-contain" />
+        <img src={logo} alt="quick_read_logo" className="w-56 object-contain" />
 
         <button
           type="button"
@@ -18,13 +18,13 @@ const Hero = () => {
       </nav>
 
       <h1 className="head_text">
-        Summarize Articles with <br className="max-md:hidden" />{" "}
-        <span className="orange_gradient">OpenAI GPT-4</span>
+        Transform articles effortlessly with <br className="max-md:hidden" />{" "}
+        <span className="blue_gradient">QuickRead AI</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with QuickRead AI, and open-sourcec article
-        summarizer that transforms lengthy articles into clear and concise
-        summaries
+        Simplify your reading with OpenAI GPT-4. Transform lengthy articles
+        using this open-source article summarizer and receive clear, concise
+        summaries.
       </h2>
     </header>
   );
