@@ -1,8 +1,21 @@
-# React + Vite
+# QuickRead AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickRead AI is an application designed to provide quick summaries of articles. Simply paste the link to the article, and let QuickRead AI handle the rest. This README provides an overview of the application's features, installation instructions, and usage guidelines.
 
-Currently, two official plugins are available:
+## Features
+- **Automatic Summarization**: QuickRead AI utilizes advanced natural language processing techniques to generate concise summaries of articles.
+- **Ease of Use**: With a simple interface, users can quickly input article links and receive summaries without any hassle.
+- **Fast Processing**: Enjoy rapid summarization, allowing you to digest essential information from articles efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+QuickRead AI is built using the following technologies:
+- **React.js**: A JavaScript library for building user interfaces.
+- **Redux.js**: A predictable state container for JavaScript apps.
+- **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
+
+## Usage
+1. Open the QuickRead AI application on https://splendorous-hummingbird-df364e.netlify.app/.
+2. Paste the link to the article you wish to summarize into the provided field.
+3. Press Enter or click on the "↵" button.
+4. Wait a few moments for QuickRead AI to process the article.
+5. Once the summary is generated, review and utilize the condensed information as needed.
