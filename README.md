@@ -14,7 +14,7 @@ QuickRead AI is built using the following technologies:
 - **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
 
 ## Usage
-1. Open the QuickRead AI application on https://splendorous-hummingbird-df364e.netlify.app/.
+1. Open the QuickRead AI application on https://quick-read-ai.netlify.app/.
 2. Paste the link to the article you wish to summarize into the provided field.
 3. Press Enter or click on the "↵" button.
 4. Wait a few moments for QuickRead AI to process the article.
